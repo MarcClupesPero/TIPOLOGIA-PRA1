@@ -13,6 +13,8 @@ Aquesta és la entrega per la PRÀCTICA 1 de l'assignatura TIPOLOGIA I CICLE DE 
 
 2. Descàrrega del driver per al navegador chrome: https://sites.google.com/chromium.org/driver/
 
+3. Modificar les rutes on s'ha guardat el driver i on es vol guardar el fitxer del dataset resultant
+
 
 S'utilitza data scraping per a extreure dades de la pàgina de rebaixes de Nike, concretament:
 
